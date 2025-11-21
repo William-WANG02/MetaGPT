@@ -80,6 +80,9 @@ https://github.com/user-attachments/assets/888cb169-78c3-4a42-9d62-9d90ed3928c9
 - 🗒 [在线文档](https://docs.deepwisdom.ai/main/zh/)
 - 💻 [如何使用](https://docs.deepwisdom.ai/main/zh/guide/get_started/quickstart.html)  
 - 🔎 [MetaGPT的能力及应用场景](https://docs.deepwisdom.ai/main/zh/guide/get_started/introduction.html)
+- 📖 **[学习资源索引](LEARNING_RESOURCES_CN.md)** - 汇总所有学习资源，快速找到需要的材料
+- 📚 **[项目详细讲解指南](PROJECT_GUIDE_CN.md)** - 深入理解 MetaGPT 项目，为面试做好准备
+- 🎯 **[面试准备速查手册](INTERVIEW_PREP_CN.md)** - 快速掌握核心知识点和高频面试问题
 - 🛠 如何构建你自己的智能体？
   - [MetaGPT的使用和开发教程 | 智能体入门](https://docs.deepwisdom.ai/main/zh/guide/tutorials/agent_101.html)
   - [MetaGPT的使用和开发教程 | 多智能体入门](https://docs.deepwisdom.ai/main/zh/guide/tutorials/multi_agent_101.html)
