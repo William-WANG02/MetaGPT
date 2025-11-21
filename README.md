@@ -127,6 +127,7 @@ https://github.com/user-attachments/assets/888cb169-78c3-4a42-9d62-9d90ed3928c9
 - 🗒 [Online Document](https://docs.deepwisdom.ai/main/en/)
 - 💻 [Usage](https://docs.deepwisdom.ai/main/en/guide/get_started/quickstart.html)  
 - 🔎 [What can MetaGPT do?](https://docs.deepwisdom.ai/main/en/guide/get_started/introduction.html)
+- 📖 **[Learning Resources Index (Chinese)](docs/LEARNING_RESOURCES_CN.md)** - Comprehensive index of all learning materials
 - 📚 **[Comprehensive Project Guide (Chinese)](docs/PROJECT_GUIDE_CN.md)** - Deep dive into MetaGPT for job interview preparation
 - 🎯 **[Interview Preparation Quick Reference (Chinese)](docs/INTERVIEW_PREP_CN.md)** - Key concepts and frequently asked interview questions
 - 🛠 How to build your own agents? 
